@@ -12,7 +12,7 @@ This gem provides auto-instrumentation for the MongoDB Ruby Driver by subscribin
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'mongodb-instrumentation'
+gem 'signalfx-mongodb-instrumentation'
 ```
 
 And then execute:
@@ -21,7 +21,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install mongodb-instrumentation
+    $ gem install signalfx-mongodb-instrumentation
 
 ## Usage
 

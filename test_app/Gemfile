@@ -2,4 +2,4 @@ source "https://rubygems.org"
 
 gem 'jaeger-client'
 gem 'mongo'
-gem 'mongodb-instrumentation'
+gem 'signalfx-mongodb-instrumentation'
